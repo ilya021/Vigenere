@@ -1,0 +1,20 @@
+﻿<Window x:Class="Vigenere.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vigenere"
+        mc:Ignorable="d"
+        Title="Шифр Виженера" Height="450" Width="800">
+    <Grid>
+        <Button Content="Зашифровать" HorizontalAlignment="Left" Margin="416,138,0,0" VerticalAlignment="Top" Height="40" Width="141" Click="ButtonClickEncrypt" FontSize="20"/>
+        <Button Content="Расшифровать" HorizontalAlignment="Left" Margin="616,138,0,0" VerticalAlignment="Top" Height="40" Width="141" Click="ButtonClickDecrypt" FontSize="20"/>
+        <TextBox x:Name="password" HorizontalAlignment="Left" Margin="126,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206" Height="40" FontSize="20"/>
+        <TextBox x:Name="inputText" HorizontalAlignment="Left" Margin="260,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="495" Height="42" FontSize="20"/>
+        <TextBox x:Name="encryptedText" HorizontalAlignment="Left" Margin="260,219,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="495" FontSize="20" Height="43"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,55,0,0" Text="Исходный текст" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="189" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,226,0,0" Text="Обработанный текст" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="29" Width="204"/>
+        <TextBlock HorizontalAlignment="Left" Margin="24,140,0,0" Text="Ключ" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="24" Width="104" Height="38"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.exe
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.deps.json
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.runtimeconfig.json
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.runtimeconfig.dev.json
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.dll
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\bin\Debug\netcoreapp3.1\Vigenere.pdb
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere_MarkupCompile.cache
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere_MarkupCompile.lref
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.g.resources
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.AssemblyInfoInputs.cache
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.AssemblyInfo.cs
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.dll
+C:\Users\ilya-\source\repos\Vigenere\Vigenere\obj\Debug\netcoreapp3.1\Vigenere.pdb
